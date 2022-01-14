@@ -31,7 +31,7 @@ aviso = "\n-----\nAviso: Este programa es su completa responsabilidad, cuide sus
 aviso2 = "Sus llaves API se almacenan sin cifrar en el archivo \"llaves.txt\", se recomienda borrar el archivo cuando no lo vaya a usar"
 
 print(aviso)
-print("----------------\nBienvenido(a) al programa gratuito de Trading semi-automático")
+print("----------------\nBienvenido(a) al programa gratuito Semi-automatic Brute Force")
 
 if os.path.exists("llaves.txt"): # Si existe el archivo de llaves
     print("Se identificaron llaves API")
