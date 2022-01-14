@@ -39,6 +39,7 @@ if os.path.exists("llaves.txt"): # Si existe el archivo de llaves
     llaves = llaves.readlines()
     api_key = str(llaves[0].strip())
     secret_key = str(llaves[1].strip())
+
 else: # Si no existe el archivo de llaves (primer uso)
     print("\nA continuación se otorga el acceso de este programa con los servidores de Bitso, mediante su API")
     print("Esta información será almacenada en el archivo de texto: \"llaves.txt\" en el mismo directorio")
