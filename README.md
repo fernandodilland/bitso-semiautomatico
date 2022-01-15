@@ -4,7 +4,7 @@ Programa de código abierto para probar el API de Bitso, el exchange más import
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 
 ## Desarrollador
-- Fernando Dilland Mireles Cisneros, [@fernandomireles](https://github.com/fernandomireles).
+- Fernando Mireles, [@fernandomireles](https://github.com/fernandomireles).
 
 ## Instalación
 Requisitos previos:
