@@ -22,7 +22,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 """
 # Programa "Semi-automatic" hecho por: Fernando Mireles
-# Github: https://github.com/fernandomireles/bitso-semi-automatic
+# Github: https://github.com/fernandomireles/bitso-semiautomatico
 
 import bitso # Para las consultas con los servidores de Bitso
 import os.path # Para la consulta del archivo "llaves.txt"
