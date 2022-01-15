@@ -21,7 +21,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 """
-# Programa "Semi-automatic" hecho por: Fernando Dilland
+# Programa "Semiautomático" hecho por: Fernando Dilland
 # Github: https://github.com/fernandodilland/bitso-semiautomatico
 
 import bitso # Para las consultas con los servidores de Bitso
