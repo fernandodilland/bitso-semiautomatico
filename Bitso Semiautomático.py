@@ -21,8 +21,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 """
-# Programa "Semi-automatic" hecho por: Fernando Mireles
-# Github: https://github.com/fernandomireles/bitso-semi-automatic
+# Programa "Semiautomático" hecho por: Fernando Mireles
+# Github: https://github.com/fernandomireles/bitso-semiautomatico
 
 import bitso # Para las consultas con los servidores de Bitso
 import os.path # Para la consulta del archivo "llaves.txt"
@@ -32,7 +32,7 @@ aviso2 = "\nSus llaves API se almacenaron sin cifrar en el archivo \"llaves.txt\
 aviso3 = "¡Cuidado! Puso una cantidad con la cual hubiera perdido dinero, intente de nuevo"
 
 print(aviso)
-print("Bienvenido(a) al programa gratuito Semi-automatic para la API de Bitso")
+print("Bienvenido(a) al programa gratuito Semiautomático para la API de Bitso")
 
 if os.path.exists("llaves.txt"): # Si existe el archivo de llaves
     print("\nSe identificaron las llaves API:")
