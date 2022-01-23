@@ -23,6 +23,10 @@ Procedimiento:
 ## Instrucciones de uso
 - Una vez ejecutado el código, elegir una opción del menú escribiendo sobre la consola la opción y presionando "enter".
 
+# Tutorial en Youtube
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/oPS-IwvLgzY/0.jpg)](http://www.youtube.com/watch?v=oPS-IwvLgzY "Software Gratis para la API de Bitso - Semiautomático")
+
+
 ## Licencia
 
 [bitso-semiautomatico](https://github.com/fernandomireles/bitso-semiautomatico) are released under [MIT license](https://github.com/fernandomireles/bitso-semiautomatico/blob/main/LICENSE).
